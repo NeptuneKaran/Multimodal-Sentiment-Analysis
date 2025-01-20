@@ -1,5 +1,4 @@
 import streamlit as st
-import transformers
 from transformers import pipeline
 
 st.title("Fine-Tuning BERT for Twitter Sentiment Classification")
